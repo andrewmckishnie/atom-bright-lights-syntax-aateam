@@ -1,0 +1,20 @@
+{
+  "name": "atom-bright-lights-syntax-aateam",
+  "author": "@mager",
+  "theme": "syntax",
+  "version": "1.1.0",
+  "description": "A bright theme that will light up code.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bright",
+    "dark",
+    "base16",
+    "vibrant"
+  ],
+  "repository": "https://github.com/andrewmckishnie/atom-bright-lights-syntax-aateam",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
